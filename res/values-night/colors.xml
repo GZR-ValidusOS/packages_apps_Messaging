@@ -68,11 +68,11 @@
     <color name="ripple_material_dark">#4dffffff</color>
     <color name="ripple_material_light">#4dffffff</color>
 
-    <color name="accent_material_light">#33b5e5</color>
-    <color name="accent_material_dark">#33b5e5</color>
+    <color name="accent_material_light">#009688</color>
+    <color name="accent_material_dark">#009688</color>
 
-    <color name="button_material_dark">#ff33b5e5</color>
-    <color name="button_material_light">#ff33b5e5</color>
+    <color name="button_material_dark">#ff009688</color>
+    <color name="button_material_light">#ff009688</color>
 
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#ffbdbdbd</color>
@@ -138,7 +138,7 @@
     <color name="timestamp_text_failed">#99d32f2f</color>
     <color name="compose_send_text_color">#ffffffff</color>
 
-    <color name="message_title_text">#ff33b5e5</color>
+    <color name="message_title_text">#ff009688</color>
     <color name="message_download_failed_status_text">#ffffffff</color>
     <color name="message_info_text">#99ffffff</color>
     <color name="message_info_text_incoming_download_failed">#ffdddddd</color>
@@ -151,19 +151,19 @@
     <color name="background_item_transparent">@android:color/transparent</color>
     <color name="background_item_activated">#670099cc</color>
     <color name="background_item_selected">#cc0099cc</color>
-    <color name="background_item_pressed">#6733b5e5</color>
+    <color name="background_item_pressed">#67009688</color>
 
     <color name="subject_editor_bubble">#0099cc</color>
 
     <color name="message_text_color_incoming">#ffffffff</color>
     <color name="message_text_color_incoming_download_failed">#ffdddddd</color>
-    <color name="message_text_color_outgoing">#ffdddddd</color>
+    <color name="message_text_color_outgoing">#ff000000</color>
     <color name="conversation_background">#000000</color>
-    <color name="conversation_edge_effect">#33b5e5</color>
+    <color name="conversation_edge_effect">#009688</color>
     <color name="compose_message_send_color">#757575</color>
     <color name="compose_message_send_color_pressed">#ff555555</color>
 
-    <color name="message_bubble_color_outgoing">#0099cc</color>
+    <color name="message_bubble_color_outgoing">#009688</color>
     <color name="message_error_bubble_color_incoming">#ff444444</color>
     <color name="message_audio_button_color_incoming">#ff222222</color>
     <color name="message_bubble_color_selected">#757575</color>
@@ -196,7 +196,7 @@
 
     <color name="translucent_white">#80ffffff</color>
     <color name="gallery_image_default_background">#000000</color>
-    <color name="gallery_image_pressed">#6733b5e5</color>
+    <color name="gallery_image_pressed">#67009688</color>
     <color name="attachment_preview_more_items_text_background">#191919</color>
     <color name="sticker_grid_item_view_pressed">#67388e3c</color>
     <color name="letter_tile_default_primary_color">#ff455a64</color>
